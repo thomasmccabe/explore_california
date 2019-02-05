@@ -1,4 +1,5 @@
 tempfile.txt
+tmepfile2.txt
 *.zip
 *.gz
 log/*.log
