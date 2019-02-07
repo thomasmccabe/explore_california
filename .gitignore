@@ -2,6 +2,7 @@ tempfile.txt
 tempfile2.txt
 *.zip
 *.gz
+*.save
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
